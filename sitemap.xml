@@ -1,11 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://i-premium.ca/index.html</loc>
-	</url>
-	<url>
 		<loc>https://i-premium.ca/inde.html</loc>
 	</url>
 	<url>
 		<loc>https://i-premium.ca/acceuil.html</loc>
+	</url>
+	<url>
+		<loc>https://i-premium.ca/0.html</loc>
 	</url>
 </urlset>
