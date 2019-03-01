@@ -1706,8 +1706,8 @@ body {
   text-align: left;
 }
 .cid-rjnotYLvYf {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 90px;
+  padding-bottom: 105px;
   background-color: #ffffff;
 }
 .cid-rjnotYLvYf .mbr-slider .carousel-control {
@@ -1767,33 +1767,80 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-riLWHTI9X6 {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+.cid-rjqdQgf9ux {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
-.cid-riLWHTI9X6 .mbr-section-subtitle DIV {
+.cid-rjqdQgf9ux h2 {
   text-align: left;
 }
-.cid-riLWHTI9X6 .mbr-section-subtitle {
+.cid-rjqdQgf9ux h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rjqdQgf9ux p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rjqdQgf9ux .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rjqdQgf9ux .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rjqdQgf9ux .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rjqdQgf9ux .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rjqdQgf9ux .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rjqdQgf9ux .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rjqdQgf9ux .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rjqdQgf9ux .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rjqdQgf9ux .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rjqdQgf9ux H2 {
+  color: #62c236;
+}
+.cid-rjqdQgf9ux H4 {
   text-align: left;
   color: #62c236;
 }
-.cid-riLWHTI9X6 .mbr-text {
-  text-align: right;
-  color: #62c236;
+.cid-rjqdQgf9ux P {
+  text-align: left;
 }
-.cid-riLWHTI9X6 .mbr-section-subtitle B {
-  color: #62c236;
-}
-.cid-riLWHTI9X6 .mbr-text B {
-  color: #62c236;
-}
-.cid-riLWHTI9X6 .mbr-section-subtitle I {
-  color: #62c236;
-}
-.cid-riLWHTI9X6 .mbr-text I {
-  color: #62c236;
+.cid-rjqdQgf9ux B {
+  color: #232323;
 }
 .cid-riM29AXMqq {
   padding-top: 90px;
