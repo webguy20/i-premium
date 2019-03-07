@@ -50,10 +50,10 @@ body {
 }
 .display-7 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -643,13 +643,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.6rem;
 }
 .form-control,
 .form-control:focus {
@@ -1983,7 +1983,7 @@ body {
   text-align: right;
 }
 .cid-rjU1gG8CoU .text1 {
-  text-align: center;
+  text-align: left;
 }
 .cid-rjZc7DH63y {
   padding-top: 0px;
